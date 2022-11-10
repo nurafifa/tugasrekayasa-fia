@@ -1,0 +1,101 @@
+body{
+	padding: 100px;
+	background: url(fia.png);
+	background-size: cover;
+	background-position: center center;
+	text-align: center;
+	font-family: 'Rockwell', sans-serif;
+}
+h1{
+	font-family: 'Rockwell', sans-serif;
+	color: purple;
+	font-style: inherit;
+	text-align: center;
+	font-size: 35px;
+	margin: 0;
+	font-weight: bolder;
+}
+h2{
+	font-family: 'Berlin Sans FB', sans-serif;
+	color: rebeccapurple;
+	font-size: 25px;
+}
+p{
+	font-family: 'Cambria Math', sans-serif;
+	font-size: 15px;
+	margin: 0 auto;
+	padding-top: 20px;
+	height: auto;
+	color: rebeccapurple;
+}
+ul{
+	margin-left: -45px;
+}
+li{
+	list-style: none;
+	display: block;
+}
+.main{
+	width: 700px;
+	height: 520px;
+	margin: 0 auto;
+	padding-top: 20px;
+	border-radius: 10px;
+	border: 5px solid #eeeeee;
+	background-color: plum;
+}
+.img{
+	background-image: url(fotoku.jpg);
+	background-color: #eaeaea;
+	background-size: cover;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border: 1px solid #eaeaea;
+}
+.text{
+	text-align: center;
+	font-size: 15px;
+	margin: 0;
+	color: blueviolet ;
+}
+.button{
+	background-color: peachpuff;
+	/*background-image: linear-gradient(147deg, #C71585 0%, #FFE4E1 51%);*/
+	font-family: "impact", sans-serif;
+	font-size: 17px;
+    color: rebeccapurple;
+    border: white 3px solid;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-top: 0.5px;
+    text-decoration: none;
+}
+.copyright{
+	font-family: harrington;
+	color: peru;
+	font-size: 20px;
+	background-color: #333;
+	text-align: center;
+	width: 700px;
+	height: 25px;
+	margin: 0 auto;
+}
+table{
+	border-color: white;
+	background-color: plum;
+	text-align: center;
+	border-collapse: collapse;
+	border-width: 5px;
+	border-style: solid;
+}
+.tulisan{
+	font-family: Garamond;
+	font-size: 17px;
+	text-align: center;
+}
+.email{
+	text-decoration: none;
+	color: black;
+}
